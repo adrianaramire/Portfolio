@@ -77,7 +77,7 @@ body, html {
 
 .bg {
   
-  background-image: "images/AdriCreates.jpg"
+  background-image: url("AdriCreates.jpg")
 
   
   height: 100%; 
