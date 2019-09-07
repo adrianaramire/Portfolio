@@ -80,7 +80,7 @@
 
 <div class="container">
   
-  <img src="AdriCreates.jpg" class="mx-auto d-block" style="width:50%"> 
+  <img src="AdriCreates.jpg" class="mx-auto d-block" style="width:100%"> 
 </div>
 
 </body>
