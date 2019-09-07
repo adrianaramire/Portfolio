@@ -76,10 +76,10 @@ body, html {
 }
 
 .bg {
-  /* The image used */
+  
   background-image: "images/AdriCreates.jpg"
 
-  /* Full height */
+  
   height: 100%; 
 
   /* Center and scale the image nicely */
@@ -87,12 +87,5 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
-</style>
-</head>
-<body>
-
-<div class="bg"></div>
-
-
 
 </html>
